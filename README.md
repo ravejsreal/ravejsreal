@@ -10,6 +10,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ravejsreal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravejsreal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1258551851935203339)
 [![Discord Presence](https://lanyard.cnrad.dev/api/1258551851935203339?borderRadius=10&bg=&theme=dark)](https://discord.com/users/1258551851935203339)
 
 ---
