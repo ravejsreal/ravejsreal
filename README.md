@@ -1,4 +1,4 @@
-<img src="banner1.gif" alt="Banner 1" width="100%" />
+<img src="Comp 1.mp4" alt="Banner 1" width="100%" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex.bzaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex@alexandrudev.com) 
