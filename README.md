@@ -1,5 +1,4 @@
 ![banner1](https://github.com/user-attachments/assets/3bc8bfe9-c11b-4eb4-a662-dfda575b0aec)
-![banner2](https://github.com/user-attachments/assets/2dddc007-7946-48dd-be4e-3bf9cc40b7e0)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex.bzaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex@alexandrudev.com) 
@@ -10,6 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ravejsreal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ravejsreal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravejsreal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p href="https://discord.com/users/1258551851935203339" title="Discord"><img src="https://lanyard.cnrad.dev/api/1258551851935203339?theme=dark&animated=true&hideDiscrim=false&idleMessage=I%20only%20use%20the%20web%20version%20of%20discord%20lmao"></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ravejsreal&icon=0&color=0)](https://visitcount.itsvg.in)
