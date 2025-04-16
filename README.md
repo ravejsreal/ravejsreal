@@ -1,4 +1,4 @@
-![banner1](https://github.com/user-attachments/assets/3bc8bfe9-c11b-4eb4-a662-dfda575b0aec)<img src="https://github.com/user-attachments/assets/c15276d8-fd42-485a-b73b-ae5dbc6de513" width="100%" />
+![banner1](https://github.com/user-attachments/assets/3bc8bfe9-c11b-4eb4-a662-dfda575b0aec)
 
 ![Uploadi<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2251 464" width="2251" height="464">
 	<title>banner1</title>
