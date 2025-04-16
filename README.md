@@ -1,4 +1,4 @@
-<img src="https://your-link.gif](https://github.com/user-attachments/assets/c15276d8-fd42-485a-b73b-ae5dbc6de513" width="100%" />
+<img src="https://github.com/user-attachments/assets/c15276d8-fd42-485a-b73b-ae5dbc6de513" width="100%" />
 
 
 ## 🌐 Socials:
