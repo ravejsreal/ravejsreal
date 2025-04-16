@@ -1,4 +1,4 @@
-![gif](https://github.com/user-attachments/assets/424cc569-a216-4b49-992a-084417e02817)
+![gif](https://github.com/user-attachments/assets/c15276d8-fd42-485a-b73b-ae5dbc6de513)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex.bzaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex@alexandrudev.com) 
