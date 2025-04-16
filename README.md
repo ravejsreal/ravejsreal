@@ -1,4 +1,4 @@
-<img src="Comp 1.mp4" alt="Banner 1" width="100%" />
+![New Project](https://github.com/user-attachments/assets/50b9dd4b-b524-4758-968b-2a2b176a0a4d)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex.bzaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alex@alexandrudev.com) 
